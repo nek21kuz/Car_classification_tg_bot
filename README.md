@@ -42,35 +42,3 @@
 4. Цели:
 
 Accuracy не ниже 0,8 на тесте
-
-5. Роли:
-
-Предобработка: Дорофеева Елена, Соколова Ирина
-
-Обучение модели: Дорофеева Елена(сетка 1), Соколова Ирина(сетка 2)
-
-Разработка: Никита Кузьмин
-
-Литература:
-
-(https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
-
-**3D Object Representations for Fine-Grained Categorization**
-
-Jonathan Krause, Michael Stark, Jia Deng, Li Fei-Fei
-
-*4th IEEE Workshop on 3D Representation and Recognition, at ICCV 2013*
-
-**(3dRR-13)**
-
-. Sydney, Australia. Dec. 8, 2013.
-
-[[pdf]](https://ai.stanford.edu/~jkrause/papers/3drr13.pdf)
-
-[[BibTex]](https://ai.stanford.edu/~jkrause/papers/3drr13.bib)
-
-[[slides]](https://ai.stanford.edu/~jkrause/papers/3drr_talk.pdf)
-
-https://habr.com/ru/post/507900/
-
-https://blog.skillfactory.ru/kak-napisat-telegram-bot-dlya-raspoznavaniya-izobrazhenij-na-python-2/
